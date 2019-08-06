@@ -1,0 +1,31 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+article, aside, details, figcaption, figure, footer, header, main, nav, section, summary {
+    display:block;
+}
+
+ .ml6 {
+   position: relative;
+   font-weight: 900;
+   font-size: 3.3em;
+ }
+
+ .ml6 .text-wrapper {
+   position: relative;
+   display: inline-block;
+   padding-top: 0.2em;
+   padding-right: 0.05em;
+   padding-bottom: 0.1em;
+   overflow: hidden;
+ }
+
+ .ml6 .letter {
+   display: inline-block;
+   line-height: 1em;
+ }
+
+/*second animation here */
